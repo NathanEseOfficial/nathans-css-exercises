@@ -1,1 +1,16 @@
 /* Add CSS Styling */
+.classnumber {
+    background-color: hsl(0, 100%, 80%);
+    font-family: Verdana, "DejaVu Sans",  sans-serif;
+}
+.classnumbera {
+    font-size: 24px;
+}
+#idnumbera {
+    color: hsl(240, 100%, 50%);
+    font-size: 36px;
+}
+#idnumberb {
+    background-color: hsl(120, 100%, 50%);
+    font-size: 24px;
+}
